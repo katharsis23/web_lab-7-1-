@@ -1,0 +1,58 @@
+h1{
+    text-align: center;
+}
+
+iframe{
+    padding-left: 90px;
+}
+
+.video{
+    padding-left: 380px;
+    padding-top: 80px;
+}
+
+.audio{
+    padding-top: 30px;
+    padding-left: 290px;
+
+}
+
+.weather{
+    padding-top: 50px;
+    padding-left: 540px;
+}
+.icon-container {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.fa-x-twitter {
+    font-size: 50px;
+    color: #1DA1F2;
+    transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.fa-x-twitter:hover {
+    color: #0c87bf;
+    transform: scale(1.2);
+}
+
+.follow-btn {
+    display: inline-block;
+    background-color: #1DA1F2;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 15px;
+    text-decoration: none;
+    border-radius: 25px;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+.follow-btn:hover {
+    background-color: #0c87bf;
+}
+
+i{
+    font-size: 32px;
+}
